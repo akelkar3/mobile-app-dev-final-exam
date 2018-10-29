@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Final Exam</string>
+    <string name="main_name">Christmas List</string>
+    <string name="login">Login</string>
+    <string name="signup">Sign Up</string>
+    <string name="logout">Logout</string>
+    <string name="add_person">Add Person</string>
+    <string name="submit_ok">Submit</string>
+    <string name="persons_name">Person\'s Name</string>
+    <string name="your_budget">Your Budget ($)</string>
+    <string name="add_gift">Add Gift</string>
+    <string name="item_name">Item Name</string>
+    <string name="item_price">$100</string>
+    <string name="item_person_name">Person\'s Name</string>
+    <string name="item_person_bugdet">$70/$100</string>
+    <string name="item_person_gifts">2 gifts bought</string>
+    <string name="submit">Submit</string>
+    <string name="cancel">Cancel</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+</resources>

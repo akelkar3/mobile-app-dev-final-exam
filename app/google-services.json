@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "494789210703",
+    "firebase_url": "https://christmas-gift-14fa5.firebaseio.com",
+    "project_id": "christmas-gift-14fa5",
+    "storage_bucket": "christmas-gift-14fa5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:494789210703:android:7a84009eb4e01e73",
+        "android_client_info": {
+          "package_name": "com.example.finalexam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "494789210703-cn2vvho8tq6j9tdvgpg7hlqp9mmdlj9r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCoO2ydTgq5Fz6-OF_q5uKCgxIJjQXRCY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
